@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_bg">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:weightSum="1000"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="910"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="4dp"
+                android:background="@drawable/heading_bg"
+                android:gravity="center"
+                android:text="Logger Information"
+                android:textColor="@color/heading_text_color"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_marginBottom="4dp"
+            android:layout_weight="90"
+            android:background="@drawable/heading_bg"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingStart="5dp"
+                android:weightSum="1000">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="300"
+                    android:gravity="center_vertical"
+                    android:text="@string/model"
+                    android:textColor="@color/label_text_color" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="490"
+                    android:gravity="center_vertical"
+                    android:text=":"
+                    android:textColor="@color/label_text_color" />
+
+                <TextView
+                    android:id="@+id/model"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="210"
+                    android:gravity="center_vertical"
+                    android:text=" "
+                    android:textColor="@color/value_text_color" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingStart="5dp"
+                android:weightSum="1000">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="300"
+                    android:gravity="center_vertical"
+                    android:text="@string/serial_number"
+                    android:textColor="@color/label_text_color" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="490"
+                    android:gravity="center_vertical"
+                    android:text=":"
+                    android:textColor="@color/label_text_color" />
+
+                <TextView
+                    android:id="@+id/serialNumber"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="210"
+                    android:gravity="center_vertical"
+                    android:text=" "
+                    android:textColor="@color/value_text_color" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingStart="5dp"
+                android:weightSum="1000">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="300"
+                    android:gravity="center_vertical"
+                    android:text="Logger ID"
+                    android:textColor="@color/label_text_color" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="490"
+                    android:gravity="center_vertical"
+                    android:text=":"
+                    android:textColor="@color/label_text_color" />
+
+                <TextView
+                    android:id="@+id/loggerID"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="210"
+                    android:gravity="center_vertical"
+                    android:text=" "
+                    android:textColor="@color/value_text_color" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingStart="5dp"
+                android:weightSum="1000">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="300"
+                    android:gravity="center_vertical"
+                    android:text="Inst. Depth (m)"
+                    android:textColor="@color/label_text_color" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="490"
+                    android:gravity="center_vertical"
+                    android:text=":"
+                    android:textColor="@color/label_text_color" />
+
+                <TextView
+                    android:id="@+id/instDepth"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="210"
+                    android:gravity="center_vertical"
+                    android:text=" "
+                    android:textColor="@color/value_text_color" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingStart="5dp"
+                android:weightSum="1000">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="300"
+                    android:gravity="center_vertical"
+                    android:text="Location"
+                    android:textColor="@color/label_text_color" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="490"
+                    android:gravity="center_vertical"
+                    android:text=":"
+                    android:textColor="@color/label_text_color" />
+
+                <TextView
+                    android:id="@+id/location"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="210"
+                    android:gravity="center_vertical"
+                    android:text=" "
+                    android:textColor="@color/value_text_color" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingStart="5dp"
+                android:weightSum="1000">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="300"
+                    android:gravity="center_vertical"
+                    android:text="Top Elevation"
+                    android:textColor="@color/label_text_color" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="490"
+                    android:gravity="center_vertical"
+                    android:text=":"
+                    android:textColor="@color/label_text_color" />
+
+                <TextView
+                    android:id="@+id/topElevation"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="210"
+                    android:gravity="center_vertical"
+                    android:text=" "
+                    android:textColor="@color/value_text_color" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingStart="5dp"
+                android:weightSum="1000">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="300"
+                    android:gravity="center_vertical"
+                    android:text="@string/fwver"
+                    android:textColor="@color/label_text_color" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="490"
+                    android:gravity="center_vertical"
+                    android:text=":"
+                    android:textColor="@color/label_text_color" />
+
+                <TextView
+                    android:id="@+id/fwver"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="210"
+                    android:gravity="center_vertical"
+                    android:text=" "
+                    android:textColor="@color/value_text_color" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingStart="5dp"
+                android:weightSum="1000">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="300"
+                    android:gravity="center_vertical"
+                    android:text="@string/fwrevdt"
+                    android:textColor="@color/label_text_color" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="490"
+                    android:gravity="center_vertical"
+                    android:text=":"
+                    android:textColor="@color/label_text_color" />
+
+                <TextView
+                    android:id="@+id/fwRevDate"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="210"
+                    android:gravity="center_vertical"
+                    android:text=" "
+                    android:textColor="@color/value_text_color" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingStart="5dp"
+                android:weightSum="1000">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="300"
+                    android:gravity="center_vertical"
+                    android:text="@string/connection_status"
+                    android:textColor="@color/label_text_color" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="490"
+                    android:gravity="center_vertical"
+                    android:text=":"
+                    android:textColor="@color/label_text_color" />
+
+                <TextView
+                    android:id="@+id/connectionStatus"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="210"
+                    android:gravity="center_vertical"
+                    android:text=" "
+                    android:textColor="@color/label_text_color" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingStart="5dp"
+                android:weightSum="1000">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="300"
+                    android:gravity="center_vertical"
+                    android:text="Scan Status"
+                    android:textColor="@color/label_text_color" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="490"
+                    android:gravity="center_vertical"
+                    android:text=":"
+                    android:textColor="@color/label_text_color" />
+
+                <TextView
+                    android:id="@+id/scanStatus"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="210"
+                    android:gravity="center_vertical"
+                    android:text=" "
+                    android:textColor="@color/value_text_color" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingStart="5dp"
+                android:weightSum="1000">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="300"
+                    android:gravity="center_vertical"
+                    android:text="Log Interval"
+                    android:textColor="@color/label_text_color" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="490"
+                    android:gravity="center_vertical"
+                    android:text=":"
+                    android:textColor="@color/label_text_color" />
+
+                <TextView
+                    android:id="@+id/logInterval"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="210"
+                    android:gravity="center_vertical"
+                    android:text=" "
+                    android:textColor="@color/value_text_color" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingStart="5dp"
+                android:weightSum="1000">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="300"
+                    android:gravity="center_vertical"
+                    android:text="Scan Start Time"
+                    android:textColor="@color/label_text_color" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="490"
+                    android:gravity="center_vertical"
+                    android:text=":"
+                    android:textColor="@color/label_text_color" />
+
+                <TextView
+                    android:id="@+id/scanStartTime"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="210"
+                    android:gravity="center_vertical"
+                    android:text=" "
+                    android:textColor="@color/value_text_color" />
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

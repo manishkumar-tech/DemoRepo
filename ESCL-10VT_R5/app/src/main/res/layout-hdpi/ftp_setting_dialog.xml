@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/LAY_BG_COL"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/heading_bg"
+        android:gravity="center"
+        android:text="@string/ftp_upload"
+        android:textColor="@color/heading_text_color"
+        android:textSize="16sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/heading_bg"
+        android:orientation="vertical"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:weightSum="100">
+
+            <TextView
+
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="4dp"
+                android:layout_marginEnd="4dp"
+                android:layout_weight="25"
+                android:gravity="center_vertical"
+                android:text="@string/url"
+                android:textColor="@color/label_text_color"
+                android:textSize="14sp" />
+
+            <TextView
+
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="@string/colon"
+                android:textColor="@color/label_text_color"
+                android:textSize="14sp" />
+
+            <EditText
+                android:id="@+id/editTextDialogURL"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="2dp"
+                android:layout_weight="74"
+                android:autofillHints=""
+                android:background="@drawable/edit_text_bg"
+                android:gravity="center"
+                android:inputType="text"
+                android:maxLength="15"
+                android:maxLines="1"
+                android:textColor="@color/edit_value_text_color"
+                android:textSize="14sp"
+                tools:ignore="LabelFor" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:weightSum="100">
+
+            <TextView
+
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="4dp"
+                android:layout_marginEnd="4dp"
+                android:layout_weight="25"
+                android:gravity="center_vertical"
+                android:text="@string/port"
+                android:textColor="@color/label_text_color"
+                android:textSize="14sp" />
+
+            <TextView
+
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="@string/colon"
+                android:textColor="@color/label_text_color"
+                android:textSize="14sp" />
+
+            <EditText
+                android:id="@+id/editTextDialogPort"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="2dp"
+                android:layout_weight="74"
+                android:autofillHints=""
+                android:background="@drawable/edit_text_bg"
+                android:gravity="center"
+                android:inputType="number"
+                android:maxLength="5"
+                android:maxLines="1"
+                android:textColor="@color/edit_value_text_color"
+                android:textSize="14sp"
+                tools:ignore="LabelFor" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+
+            android:orientation="horizontal"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:weightSum="100">
+
+            <TextView
+
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="4dp"
+                android:layout_marginEnd="4dp"
+                android:layout_weight="25"
+                android:gravity="center_vertical"
+                android:text="@string/user_id"
+                android:textColor="@color/label_text_color"
+                android:textSize="14sp" />
+
+            <TextView
+
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="@string/colon"
+                android:textColor="@color/label_text_color"
+                android:textSize="14sp" />
+
+            <EditText
+                android:id="@+id/editTextUser"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="2dp"
+                android:layout_weight="74"
+                android:autofillHints=""
+                android:background="@drawable/edit_text_bg"
+                android:gravity="center"
+                android:inputType="text"
+                android:maxLength="20"
+                android:maxLines="1"
+                android:textColor="@color/edit_value_text_color"
+                android:textSize="14sp"
+                tools:ignore="LabelFor" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:weightSum="100">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="4dp"
+                android:layout_marginEnd="4dp"
+                android:layout_weight="25"
+                android:gravity="center_vertical"
+                android:text="@string/password"
+                android:textColor="@color/label_text_color"
+                android:textSize="14sp" />
+
+            <TextView
+
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="@string/colon"
+                android:textColor="@color/label_text_color"
+                android:textSize="14sp" />
+
+            <EditText
+                android:id="@+id/editTextBatteryInstDate"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="2dp"
+                android:layout_weight="74"
+                android:autofillHints=""
+                android:background="@drawable/edit_text_bg"
+                android:gravity="center"
+                android:inputType="textPassword"
+                android:maxLength="20"
+                android:maxLines="1"
+                android:textColor="@color/edit_value_text_color"
+                android:textSize="14sp"
+                tools:ignore="LabelFor" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:weightSum="100">
+
+            <TextView
+
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="4dp"
+                android:layout_marginEnd="4dp"
+                android:layout_weight="25"
+                android:gravity="center_vertical"
+                android:text="@string/confirm_password"
+                android:textColor="@color/label_text_color"
+                android:textSize="14sp" />
+
+            <TextView
+
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="@string/colon"
+                android:textColor="@color/label_text_color"
+                android:textSize="14sp" />
+
+            <EditText
+                android:id="@+id/editTextDialogConfirm"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="2dp"
+                android:layout_weight="74"
+                android:autofillHints=""
+                android:background="@drawable/edit_text_bg"
+                android:gravity="center"
+                android:inputType="textPassword"
+                android:maxLength="20"
+                android:maxLines="1"
+                android:textColor="@color/edit_value_text_color"
+                android:textSize="14sp"
+                tools:ignore="LabelFor" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginBottom="4dp"
+            android:orientation="horizontal"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:weightSum="100">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="4dp"
+                android:layout_marginEnd="4dp"
+                android:layout_weight="26"
+                android:gravity="center_vertical" />
+
+            <Button
+                android:id="@+id/buttonUpdateFTPSettings"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:layout_weight="74"
+                android:background="@drawable/bg_button"
+                android:text="@string/update"
+                android:textColor="@color/button_text_color"
+                android:textSize="14sp" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
+

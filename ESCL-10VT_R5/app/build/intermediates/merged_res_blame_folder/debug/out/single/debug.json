@@ -1,0 +1,1194 @@
+[
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_modem_settings.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/modem_settings.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_scheduled_upload_new.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/scheduled_upload_new.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_signal_3.gif.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/signal_3.gif"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_barometer_setting.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/barometer_setting.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_ftp_setting_dialog.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/ftp_setting_dialog.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_signal_4.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_signal_4.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_device_list.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/device_list.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_modem_settings.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/modem_settings.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_graph.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/graph.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_scan_and_format.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/scan_and_format.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_error_4.gif.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/error_4.gif"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_spinner_drop_down.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/spinner_drop_down.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_spinner_drop_down.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/spinner_drop_down.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_temp.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/temp.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_graph_parameters.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/graph_parameters.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_contact_list.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/contact_list.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_device_name.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/device_name.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_main.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/main.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_ftp_setting_dialog_twoway.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/ftp_setting_dialog_twoway.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_modem_on.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/modem_on.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_battery_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/battery_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_csv_file_header.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/csv_file_header.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_new_battery.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/new_battery.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_device_name.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/device_name.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_ftp_setting_dialog.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/ftp_setting_dialog.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_barometer_setting.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/barometer_setting.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_sms_contact.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/sms_contact.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_spinner_drop_down_selected.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/spinner_drop_down_selected.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_download_icon.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/download_icon.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_sampling_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/sampling_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_contact_list.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/contact_list.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_phone.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_phone.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_sensor_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/sensor_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_connection.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_connection.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_g2.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/g2.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_csv_file_header.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/csv_file_header.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_upload_files.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/upload_files.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/font_adamina.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/font/adamina.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_signal_3.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_signal_3.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_upload_files.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/upload_files.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_signal_4.gif.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/signal_4.gif"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_battery2.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/battery2.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_logger_info_setting.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/logger_info_setting.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_scheduled_upload_new.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/scheduled_upload_new.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_logger_date_time_setting.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/logger_date_time_setting.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_arrow.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/arrow.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_logger_info_setting.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/logger_info_setting.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_view_filedata.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/view_filedata.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_error_3.gif.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/error_3.gif"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_device_list.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/device_list.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_time_picker_hhmm.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/time_picker_hhmm.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_ftp_setting_dialog_twoway.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/ftp_setting_dialog_twoway.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_main.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/main.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_splash.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/splash.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_system_info.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/system_info.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_upload_files_item.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/upload_files_item.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_ftp_setting_dialog_twoway.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/ftp_setting_dialog_twoway.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_reset.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_reset.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_splash.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/splash.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_empty.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/empty.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_newbattery.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/newbattery.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_company.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/company.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_graph_parameters.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/graph_parameters.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_drawing_1.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_drawing_1.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_ftp_setting_dialog_twoway.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/ftp_setting_dialog_twoway.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_circle_red.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/circle_red.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_alarm_event_logs.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/alarm_event_logs.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_sms_contact.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/sms_contact.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_splash.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/splash.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_g0.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/g0.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_time_picker_hhmm.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/time_picker_hhmm.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_sampling_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/sampling_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_spinner_drop_down_selected.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/spinner_drop_down_selected.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_date_icon.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/date_icon.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_sample.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_sample.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_info_phone.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/info_phone.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_alarm_event_logs.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/alarm_event_logs.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_error_1.gif.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/error_1.gif"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_reset_factory_password_dialog.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/reset_factory_password_dialog.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_sensor_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/sensor_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_logger_date_time_setting.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/logger_date_time_setting.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_device_name.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/device_name.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_device_name.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/device_name.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_sensor_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/sensor_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_vertical_progress_bar.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/vertical_progress_bar.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_bluetooth_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/bluetooth_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_upload_files.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/upload_files.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_g3.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/g3.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_info_phone.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/info_phone.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_show_chart.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_show_chart.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_bluetooth_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/bluetooth_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_view_data_item.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/view_data_item.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_main.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/main.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_system_configuration.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_system_configuration.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_view_filedata.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/view_filedata.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_spinner_drop_down_selected.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/spinner_drop_down_selected.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/raw_frequency_1.json.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/raw/frequency_1.json"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_sensor_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/sensor_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_heading_bg.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/heading_bg.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_datalog.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/datalog.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/raw_information_2.json.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/raw/information_2.json"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_signal_1.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_signal_1.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_logger_info_setting.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/logger_info_setting.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_custom_time_picker.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/custom_time_picker.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_graph_parameters.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/graph_parameters.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_reset_factory_password_dialog.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/reset_factory_password_dialog.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_logger_date_time_setting.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/logger_date_time_setting.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_time_picker_hhmm.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/time_picker_hhmm.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_scheduled_upload_new.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/scheduled_upload_new.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_sms_contact.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/sms_contact.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_download_menu.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/download_menu.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_arrow.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_arrow.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_battery_white.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_battery_white.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_info_phone.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/info_phone.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_monitor_paramtr.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/monitor_paramtr.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_sample.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/sample.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_ftp_setting_dialog_twoway.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/ftp_setting_dialog_twoway.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_contact_list.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/contact_list.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_graph.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/graph.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_barometer_setting.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/barometer_setting.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_setup_main.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/setup_main.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_sensor_settings.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/sensor_settings.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_upload_files.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/upload_files.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_battery_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/battery_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_battery5.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/battery5.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_upload_files.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/upload_files.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_reset_factory_password_dialog.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/reset_factory_password_dialog.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_new_battery.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/new_battery.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_sensor_settings.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/sensor_settings.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_battery_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/battery_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_setup_main.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/setup_main.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_signal_1.gif.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/signal_1.gif"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_custom_time_picker.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/custom_time_picker.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_view_data_item.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/view_data_item.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_url_settings.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/url_settings.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_sms_contact.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/sms_contact.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_signal_2.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_signal_2.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_earse.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/earse.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_battery_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/battery_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_spinner_drop_down.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/spinner_drop_down.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_spinner_bg.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/spinner_bg.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_error_2.gif.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/error_2.gif"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_reset_factory_password_dialog.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/reset_factory_password_dialog.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_monitor_paramtr.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/monitor_paramtr.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_modem_settings.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/modem_settings.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_empty_data.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/empty_data.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_monitor_paramtr.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/monitor_paramtr.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_csv_file_header.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/csv_file_header.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_signal_2.gif.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/signal_2.gif"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_info.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/info.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_logger_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/logger_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_csv_file_header.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/csv_file_header.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_logger_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/logger_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_setup_main.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/setup_main.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_sms_contact.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/sms_contact.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_view_data.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_view_data.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_battery0.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/battery0.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_upload_files_item.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/upload_files_item.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_start.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/start.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_logger_date_time_setting.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/logger_date_time_setting.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_bg.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/bg.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_ftp_setting_dialog.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/ftp_setting_dialog.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_upload_files_item.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/upload_files_item.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_sampling_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/sampling_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_csv_file_header.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/csv_file_header.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_modem_settings.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/modem_settings.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_scheduled_upload_new.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/scheduled_upload_new.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_sampling_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/sampling_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_scan_and_format.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/scan_and_format.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_graph.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_graph.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_bluetooth_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/bluetooth_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_spinner_drop_down_selected.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/spinner_drop_down_selected.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_alarm_event_logs.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/alarm_event_logs.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_scan_and_format.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/scan_and_format.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_monitor.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/monitor.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_new_battery.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/new_battery.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_bluetooth_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/bluetooth_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_ftp_setting_dialog.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/ftp_setting_dialog.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_data.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/data.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_graph.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/graph.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_arrow_up.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_arrow_up.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_new_battery.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/new_battery.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_view_filedata.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/view_filedata.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_upload_data.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_upload_data.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_logger_info_setting.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/logger_info_setting.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_modem_configuration.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_modem_configuration.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_reset_factory_password_dialog.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/reset_factory_password_dialog.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_logger_info_setting.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/logger_info_setting.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_refresh.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/refresh.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_url_settings.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/url_settings.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_modem_settings.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/modem_settings.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_progress_vertical.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/progress_vertical.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_contact_list.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/contact_list.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_main.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/main.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_logger_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/logger_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_graph_parameters.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/graph_parameters.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_info_phone.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/info_phone.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_time_picker_hhmm.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/time_picker_hhmm.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_download_menu.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/download_menu.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_url_settings.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/url_settings.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_shutdown_datalogger.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_shutdown_datalogger.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_bg_button.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/bg_button.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_barometer_setting.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/barometer_setting.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_view_filedata.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/view_filedata.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_download_menu.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/download_menu.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_spinner_drop_down.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/spinner_drop_down.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_battery10.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/battery10.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_graph_parameters.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/graph_parameters.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_custom_time_picker.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/custom_time_picker.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_circle_green.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/circle_green.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_monitor.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/monitor.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_quit.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/quit.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_monitor.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/monitor.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_monitor.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/monitor.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_setup_main.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/setup_main.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_bg_menu_button.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/bg_menu_button.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_battery20.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/battery20.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_alarm_event_logs.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/alarm_event_logs.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_time_picker_hhmm.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/time_picker_hhmm.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/raw_setup.json.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/raw/setup.json"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_setup_main.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/setup_main.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_view_data_item.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/view_data_item.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_sensor_settings.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/sensor_settings.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_url_settings.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/url_settings.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_monitor.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/monitor.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_monitor_paramtr.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/monitor_paramtr.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_arrow_right.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_arrow_right.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_logger_date_time_setting.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/logger_date_time_setting.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_watch.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_watch.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_shutdown.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/shutdown.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_info_phone.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/info_phone.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_splash.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/splash.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_view_data_item.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/view_data_item.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_graph.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/graph.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_monitor_parameter.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_monitor_parameter.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_new_battery.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/new_battery.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_device_list.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/device_list.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_color_selector.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/color_selector.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_system_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_system_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_edit_text_bg.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/edit_text_bg.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_clock.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_clock.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_signal_0.gif.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/signal_0.gif"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_device_name.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/device_name.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_battery_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/battery_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_battery.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_battery.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_monitor_paramtr.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/monitor_paramtr.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_sensor_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/sensor_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_bg.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_bg.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_arrow_down.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_arrow_down.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_device_list.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/device_list.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_refresh3.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/refresh3.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_view_data_item.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/view_data_item.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_error_0.gif.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/error_0.gif"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_url_settings.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/url_settings.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_custom_time_picker.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/custom_time_picker.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_sampling_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/sampling_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_system_info.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/system_info.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_view_filedata.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/view_filedata.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_alarm_event_logs.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/alarm_event_logs.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_splash.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/splash.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_spinner_drop_down_selected.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/spinner_drop_down_selected.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_bg_main.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/bg_main.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_custom_time_picker.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/custom_time_picker.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_signal_0.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_signal_0.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_spinner_drop_down.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/spinner_drop_down.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_datalogger.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/datalogger.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_warning_icon.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/warning_icon.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_main.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/main.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_download_menu.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/download_menu.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_bluetooth_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/bluetooth_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_scan_and_format.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/scan_and_format.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_device_list.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/device_list.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_scan_and_format.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/scan_and_format.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_signal_5.gif.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/signal_5.gif"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_system_info.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/system_info.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_icon.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/icon.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_bgp.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/bgp.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-hdpi_logger_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-hdpi/logger_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_scan_and_format.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_scan_and_format.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_calender.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_calender.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_g4.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/g4.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_upload_files_item.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/upload_files_item.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_error_5.gif.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/error_5.gif"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_error.gif.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/error.gif"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_run.png.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/run.png"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_graph.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/graph.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_logger_information.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/logger_information.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_system_info.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/system_info.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_scheduled_upload_new.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/scheduled_upload_new.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_upload_files_item.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/upload_files_item.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/drawable_ic_logger.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/drawable/ic_logger.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_barometer_setting.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/barometer_setting.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxxhdpi_sensor_settings.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxxhdpi/sensor_settings.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xxhdpi_contact_list.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xxhdpi/contact_list.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_download_menu.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/download_menu.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-xhdpi_sensor_settings.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-xhdpi/sensor_settings.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_ftp_setting_dialog.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/ftp_setting_dialog.xml"
+    },
+    {
+        "merged": "com.encardio.android.escl10vt_r5.activity.app-merged_res-20:/layout-sw600dp_system_info.xml.flat",
+        "source": "com.encardio.android.escl10vt_r5.activity.app-main-22:/layout-sw600dp/system_info.xml"
+    }
+]

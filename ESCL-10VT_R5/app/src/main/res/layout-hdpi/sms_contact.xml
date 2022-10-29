@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/LAY_BG_COL"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/heading_bg"
+        android:gravity="center"
+        android:text="Enter contact with country code"
+        android:textColor="@color/label_text_color" />
+
+    <EditText
+        android:id="@+id/edittext"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/edit_text_bg"
+        android:hint="Enter text here.."
+        android:inputType="phone"
+        android:padding="10dp"
+        android:textColor="@color/edit_value_text_color"
+        android:textSize="14sp" />
+</LinearLayout>

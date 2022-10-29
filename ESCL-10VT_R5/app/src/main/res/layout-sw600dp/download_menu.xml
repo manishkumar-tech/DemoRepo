@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginRight="4dp"
+        android:orientation="vertical"
+        android:weightSum="1000"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="4dp"
+            android:layout_weight="75"
+            android:background="@drawable/heading_bg"
+            android:gravity="center"
+            android:text="@string/download"
+            android:textColor="@color/heading_text_color"
+            android:textSize="36sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="4dp"
+            android:layout_weight="340"
+            android:background="@drawable/heading_bg"
+            android:orientation="vertical"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingStart="8dp"
+                android:paddingEnd="8dp"
+                android:weightSum="100">
+
+                <TextView
+                    android:id="@+id/lbl_TotalRecords"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="77"
+                    android:gravity="center_vertical"
+                    android:text="@string/total_records"
+                    android:textColor="@color/label_text_color"
+                    android:textSize="32sp" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:text="@string/colon"
+                    android:textColor="@color/label_text_color"
+                    android:textSize="32sp" />
+
+                <TextView
+                    android:id="@+id/txt_TotalRecords"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="22"
+                    android:gravity="center"
+                    android:textColor="@color/value_text_color"
+                    android:textSize="32sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingStart="8dp"
+                android:paddingEnd="8dp"
+                android:weightSum="100">
+
+                <TextView
+                    android:id="@+id/lbl_TotalRecordsFromLastDownload"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="77"
+                    android:gravity="center_vertical"
+                    android:text="@string/total_records_from_last_download"
+                    android:textColor="@color/label_text_color"
+                    android:textSize="32sp" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:text="@string/colon"
+                    android:textColor="@color/label_text_color"
+                    android:textSize="32sp" />
+
+                <TextView
+                    android:id="@+id/txt_TotalRecordsFromLastDownload"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="22"
+                    android:gravity="center"
+                    android:textColor="@color/value_text_color"
+                    android:textSize="32sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingStart="8dp"
+                android:paddingEnd="8dp"
+                android:weightSum="100">
+
+                <TextView
+                    android:id="@+id/lbl_TotalRecordsFromLastUpload"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="77"
+                    android:gravity="center_vertical"
+                    android:text="@string/total_records_from_last_upload"
+                    android:textColor="@color/label_text_color"
+                    android:textSize="32sp" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:text="@string/colon"
+                    android:textColor="@color/label_text_color"
+                    android:textSize="32sp" />
+
+                <TextView
+                    android:id="@+id/txt_TotalRecordsFromLastUpload"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="22"
+                    android:gravity="center"
+                    android:textColor="@color/value_text_color"
+                    android:textSize="32sp" />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btn_refresh"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="4dp"
+            android:layout_weight="75"
+            android:background="@drawable/bg_button"
+            android:text="Refresh"
+            android:textAllCaps="false"
+            android:textColor="@color/button_text_color"
+            android:textSize="32sp" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="4dp"
+            android:layout_weight="75"
+            android:background="@drawable/heading_bg"
+            android:gravity="center"
+            android:text="@string/select_download_option"
+            android:textColor="@color/heading_text_color"
+            android:textSize="36sp" />
+
+
+        <RadioGroup
+            android:id="@+id/btnRadioGroup_DownloadOption"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="4dp"
+            android:layout_weight="208"
+            android:background="@drawable/heading_bg">
+
+            <RadioButton
+                android:id="@+id/btnRadio_FromBegining"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:checked="false"
+                android:text="@string/from_begining"
+                android:textColor="@color/label_text_color"
+                android:textSize="32sp" />
+
+            <RadioButton
+                android:id="@+id/btnRadio_FromLastDownload"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:checked="true"
+                android:text="@string/from_last_download"
+                android:textColor="@color/label_text_color"
+                android:textSize="32sp" />
+        </RadioGroup>
+
+
+        <Button
+            android:id="@+id/buttonSaveFile"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="4dp"
+            android:layout_weight="75"
+            android:background="@drawable/bg_button"
+            android:text="@string/download_amp_save_file"
+            android:textAllCaps="false"
+            android:textColor="@color/button_text_color"
+            android:textSize="32sp" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="4dp"
+            android:layout_weight="75"
+
+            android:background="@drawable/heading_bg"
+            android:gravity="center"
+            android:text="@string/logger_memory_action"
+            android:textColor="@color/heading_text_color"
+            android:textSize="36sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="4dp"
+            android:layout_weight="75"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/buttonViewData"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginEnd="4dp"
+                android:layout_weight="1"
+                android:background="@drawable/bg_button"
+                android:text="View Data"
+                android:textAllCaps="false"
+                android:textColor="@color/button_text_color"
+                android:textSize="32sp" />
+
+            <Button
+                android:id="@+id/buttonUploadFile"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="4dp"
+                android:layout_weight="1"
+                android:background="@drawable/bg_button"
+                android:text="@string/upload_file"
+                android:textAllCaps="false"
+                android:textColor="@color/button_text_color"
+                android:textSize="32sp" />
+        </LinearLayout>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

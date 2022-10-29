@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginRight="4dp"
+        android:orientation="vertical"
+        android:weightSum="1000"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="4dp"
+            android:layout_weight="75"
+            android:background="@drawable/heading_bg"
+            android:gravity="center"
+            android:text="@string/csv_file_header_option"
+            android:textColor="@color/heading_text_color"
+            android:textSize="36sp" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="4dp"
+            android:layout_weight="700"
+            android:background="@drawable/heading_bg"
+            android:orientation="vertical"
+
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingStart="8dp"
+                android:paddingEnd="8dp"
+                android:weightSum="100">
+
+                <TextView
+
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="23"
+                    android:gravity="center_vertical"
+                    android:text="@string/column_1"
+                    android:textColor="@color/label_text_color"
+                    android:textSize="32sp" />
+
+                <TextView
+
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="2"
+                    android:gravity="center_vertical"
+                    android:text="@string/colon"
+                    android:textColor="@color/label_text_color"
+                    android:textSize="32sp" />
+
+                <EditText
+                    android:id="@+id/txtColumnValue1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="2dp"
+                    android:layout_weight="75"
+                    android:autofillHints=""
+                    android:background="@drawable/edit_text_bg"
+                    android:gravity="center"
+                    android:inputType="text"
+                    android:maxLength="27"
+                    android:maxLines="1"
+                    android:textColor="@color/edit_value_text_color"
+                    android:textSize="32sp"
+                    tools:ignore="LabelFor" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingStart="8dp"
+                android:paddingEnd="8dp"
+                android:weightSum="100">
+
+                <TextView
+
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="23"
+                    android:gravity="center_vertical"
+                    android:text="@string/column_2"
+                    android:textColor="@color/label_text_color"
+                    android:textSize="32sp" />
+
+                <TextView
+
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="2"
+                    android:gravity="center_vertical"
+                    android:text="@string/colon"
+                    android:textColor="@color/label_text_color"
+                    android:textSize="32sp" />
+
+                <EditText
+                    android:id="@+id/txtColumnValue2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="2dp"
+                    android:layout_weight="75"
+                    android:autofillHints=""
+                    android:background="@drawable/edit_text_bg"
+                    android:gravity="center"
+                    android:inputType="text"
+                    android:maxLength="27"
+                    android:maxLines="1"
+                    android:textColor="@color/edit_value_text_color"
+                    android:textSize="32sp"
+                    tools:ignore="LabelFor" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingStart="8dp"
+                android:paddingEnd="8dp"
+                android:weightSum="100">
+
+                <TextView
+
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="23"
+                    android:gravity="center_vertical"
+                    android:text="@string/column_3"
+                    android:textColor="@color/label_text_color"
+                    android:textSize="32sp" />
+
+                <TextView
+
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="2"
+                    android:gravity="center_vertical"
+                    android:text="@string/colon"
+                    android:textColor="@color/label_text_color"
+                    android:textSize="32sp" />
+
+                <EditText
+                    android:id="@+id/txtColumnValue3"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="2dp"
+                    android:layout_weight="75"
+                    android:autofillHints=""
+                    android:background="@drawable/edit_text_bg"
+                    android:gravity="center"
+                    android:inputType="text"
+                    android:maxLength="27"
+                    android:maxLines="1"
+                    android:textColor="@color/edit_value_text_color"
+                    android:textSize="32sp"
+                    tools:ignore="LabelFor" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingStart="8dp"
+                android:paddingEnd="8dp"
+                android:weightSum="100">
+
+                <TextView
+
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="23"
+                    android:gravity="center_vertical"
+                    android:text="@string/column_4"
+                    android:textColor="@color/label_text_color"
+                    android:textSize="32sp" />
+
+                <TextView
+
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="2"
+                    android:gravity="center_vertical"
+                    android:text="@string/colon"
+                    android:textColor="@color/label_text_color"
+                    android:textSize="32sp" />
+
+                <EditText
+                    android:id="@+id/txtColumnValue4"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="2dp"
+                    android:layout_weight="75"
+                    android:autofillHints=""
+                    android:background="@drawable/edit_text_bg"
+                    android:gravity="center"
+                    android:inputType="text"
+                    android:maxLength="27"
+                    android:maxLines="1"
+                    android:textColor="@color/edit_value_text_color"
+                    android:textSize="32sp"
+                    tools:ignore="LabelFor" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingStart="8dp"
+                android:paddingEnd="8dp"
+                android:weightSum="100">
+
+                <TextView
+
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="23"
+                    android:gravity="center_vertical"
+                    android:text="@string/column_5"
+                    android:textColor="@color/label_text_color"
+                    android:textSize="32sp" />
+
+                <TextView
+
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="2"
+                    android:gravity="center_vertical"
+                    android:text="@string/colon"
+                    android:textColor="@color/label_text_color"
+                    android:textSize="32sp" />
+
+                <EditText
+                    android:id="@+id/txtColumnValue5"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="2dp"
+                    android:layout_weight="75"
+                    android:autofillHints=""
+                    android:background="@drawable/edit_text_bg"
+                    android:gravity="center"
+                    android:inputType="text"
+                    android:maxLength="27"
+                    android:maxLines="1"
+                    android:textColor="@color/edit_value_text_color"
+                    android:textSize="32sp"
+                    tools:ignore="LabelFor" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingStart="8dp"
+                android:paddingEnd="8dp"
+                android:weightSum="100">
+
+                <TextView
+
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="23"
+                    android:gravity="center_vertical"
+                    android:text="@string/column_6"
+                    android:textColor="@color/label_text_color"
+                    android:textSize="32sp" />
+
+                <TextView
+
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="2"
+                    android:gravity="center_vertical"
+                    android:text="@string/colon"
+                    android:textColor="@color/label_text_color"
+                    android:textSize="32sp" />
+
+                <EditText
+                    android:id="@+id/txtColumnValue6"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="2dp"
+                    android:layout_weight="75"
+                    android:autofillHints=""
+                    android:background="@drawable/edit_text_bg"
+                    android:gravity="center"
+                    android:inputType="text"
+                    android:maxLength="27"
+                    android:maxLines="1"
+                    android:textColor="@color/edit_value_text_color"
+                    android:textSize="32sp"
+                    tools:ignore="LabelFor" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingStart="8dp"
+                android:paddingEnd="8dp"
+                android:weightSum="100">
+
+                <TextView
+
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="33"
+                    android:gravity="center_vertical"
+                    android:text="@string/enable_header"
+                    android:textColor="@color/label_text_color"
+                    android:textSize="32sp" />
+
+                <TextView
+
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="2"
+                    android:gravity="center_vertical"
+                    android:text="@string/colon"
+                    android:textColor="@color/label_text_color"
+                    android:textSize="32sp" />
+
+                <CheckBox
+                    android:id="@+id/checkBoxEnableHeader"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="65"
+                    android:gravity="center"
+                    android:textColor="@color/label_text_color" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+        <Button
+            android:id="@+id/buttonUpdateHeader"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="4dp"
+            android:layout_weight="75"
+            android:background="@drawable/bg_button"
+            android:text="@string/update"
+            android:textAllCaps="false"
+            android:textColor="@color/button_text_color"
+            android:textSize="32sp" />
+
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="4dp"
+            android:layout_weight="75"
+            android:background="@drawable/heading_bg"
+            android:gravity="center"
+            android:text="@string/logger_memory_action"
+            android:textColor="@color/heading_text_color"
+            android:textSize="36sp" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="4dp"
+            android:layout_weight="75"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/buttonDownloadData"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginEnd="4dp"
+                android:layout_weight="1"
+                android:background="@drawable/bg_button"
+                android:text="@string/download_data"
+                android:textAllCaps="false"
+                android:textColor="@color/button_text_color"
+                android:textSize="32sp" />
+
+            <Button
+                android:id="@+id/buttonEraseMem"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="4dp"
+                android:layout_weight="1"
+                android:background="@drawable/bg_button"
+                android:text="@string/erase_memory"
+                android:textAllCaps="false"
+                android:textColor="@color/button_text_color"
+                android:textSize="32sp" />
+        </LinearLayout>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

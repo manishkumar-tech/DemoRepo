@@ -1,0 +1,313 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.encardio.android.escl10vt_r5.activity"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml
+10
+11    <supports-screens
+11-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:9:5-13:40
+12        android:largeScreens="true"
+12-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:10:9-36
+13        android:normalScreens="true"
+13-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:11:9-37
+14        android:smallScreens="true"
+14-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:12:9-36
+15        android:xlargeScreens="true" />
+15-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:13:9-37
+16
+17    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+17-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:15:5-74
+17-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:15:22-71
+18    <uses-permission android:name="android.permission.BLUETOOTH" />
+18-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:16:5-68
+18-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:16:22-65
+19    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+19-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:17:5-75
+19-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:17:22-72
+20    <uses-permission android:name="android.permission.WAKE_LOCK" />
+20-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:18:5-68
+20-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:18:22-65
+21    <uses-permission android:name="android.permission.VIBRATE" />
+21-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:19:5-66
+21-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:19:22-63
+22    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+22-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:20:5-81
+22-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:20:22-78
+23    <uses-permission android:name="android.permission.INTERNET" />
+23-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:21:5-67
+23-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:21:22-64
+24    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+24-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:22:5-79
+24-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:22:22-76
+25    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+25-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:23:5-79
+25-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:23:22-76
+26    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+26-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:24:5-81
+26-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:24:22-78
+27    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+27-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:25:5-98
+27-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:25:22-95
+28    <uses-permission android:name="android.permission.SEND_SMS" />
+28-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:26:5-67
+28-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:26:22-64
+29    //# manish add
+30    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+30-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:29:5-31:40
+30-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:30:9-66
+31
+32    <application
+32-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:34:5-150:19
+33        android:allowClearUserData="false"
+33-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:35:9-43
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.7.0] C:\Users\manishk\.gradle\caches\transforms-3\0c734a8f9451ded3159b05d46fc9a23a\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+35        android:debuggable="true"
+36        android:icon="@drawable/icon"
+36-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:36:9-38
+37        android:label="@string/app_name"
+37-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:37:9-41
+38        android:requestLegacyExternalStorage="true"
+38-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:39:9-52
+39        android:screenOrientation="portrait"
+39-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:38:9-45
+40        android:theme="@style/AppTheme" >
+40-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:40:9-40
+41        <activity
+41-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:42:9-51:20
+42            android:name="com.encardio.android.escl10vt_r5.activity.SplashScreen"
+42-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:43:13-41
+43            android:configChanges="orientation|keyboardHidden"
+43-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:44:13-63
+44            android:exported="true"
+44-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:46:13-36
+45            android:screenOrientation="portrait" >
+45-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:45:13-49
+46            <intent-filter>
+46-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:47:13-50:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:48:17-69
+47-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:48:25-66
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:49:17-77
+49-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:49:27-74
+50            </intent-filter>
+51        </activity>
+52        <activity android:name="org.achartengine.GraphicalActivity" />
+52-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:53:9-71
+52-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:53:19-68
+53        <activity
+53-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:55:9-58:59
+54            android:name="com.encardio.android.escl10vt_r5.activity.DeviceListActivity"
+54-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:56:13-47
+55            android:screenOrientation="unspecified"
+55-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:57:13-52
+56            android:theme="@android:style/Theme.Dialog" />
+56-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:58:13-56
+57        <activity
+57-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:60:9-62:52
+58            android:name="com.encardio.android.escl10vt_r5.activity.ParameterActivity"
+58-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:61:13-46
+59            android:screenOrientation="portrait" />
+59-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:62:13-49
+60        <activity
+60-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:63:9-65:52
+61            android:name="com.encardio.android.escl10vt_r5.activity.BarometerSettingActivity"
+61-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:64:13-53
+62            android:screenOrientation="portrait" />
+62-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:65:13-49
+63        <activity
+63-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:66:9-68:53
+64            android:name="com.encardio.android.escl10vt_r5.activity.GraphView2"
+64-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:67:13-39
+65            android:screenOrientation="landscape" />
+65-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:68:13-50
+66        <activity
+66-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:69:9-71:53
+67            android:name="com.encardio.android.escl10vt_r5.activity.LineChart"
+67-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:70:13-38
+68            android:screenOrientation="landscape" />
+68-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:71:13-50
+69        <activity
+69-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:72:9-74:52
+70            android:name="com.encardio.android.escl10vt_r5.activity.AlarmEventActivity"
+70-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:73:13-47
+71            android:screenOrientation="portrait" />
+71-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:74:13-49
+72        <activity
+72-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:75:9-77:52
+73            android:name="com.encardio.android.escl10vt_r5.activity.HomeActivity"
+73-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:76:13-41
+74            android:screenOrientation="portrait" />
+74-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:77:13-49
+75        <activity
+75-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:78:9-80:52
+76            android:name="com.encardio.android.escl10vt_r5.activity.ScanAndFormatActivity"
+76-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:79:13-50
+77            android:screenOrientation="portrait" />
+77-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:80:13-49
+78        <activity
+78-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:81:9-83:52
+79            android:name="com.encardio.android.escl10vt_r5.activity.SetupMainActivity"
+79-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:82:13-46
+80            android:screenOrientation="portrait" />
+80-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:83:13-49
+81        <activity
+81-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:84:9-86:52
+82            android:name="com.encardio.android.escl10vt_r5.activity.CSVFileHeaderActivity"
+82-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:85:13-50
+83            android:screenOrientation="portrait" />
+83-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:86:13-49
+84        <activity
+84-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:87:9-89:52
+85            android:name="com.encardio.android.escl10vt_r5.activity.UploadFilesActivity"
+85-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:88:13-48
+86            android:screenOrientation="portrait" />
+86-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:89:13-49
+87        <activity
+87-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:90:9-92:52
+88            android:name="com.encardio.android.escl10vt_r5.activity.URL_SettingsActivity"
+88-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:91:13-49
+89            android:screenOrientation="portrait" />
+89-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:92:13-49
+90        <activity
+90-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:93:9-95:52
+91            android:name="com.encardio.android.escl10vt_r5.activity.ViewFileDataTableActivity"
+91-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:94:13-54
+92            android:screenOrientation="portrait" />
+92-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:95:13-49
+93        <activity
+93-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:96:9-98:52
+94            android:name="com.encardio.android.escl10vt_r5.activity.ContactListActivity"
+94-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:97:13-48
+95            android:screenOrientation="portrait" />
+95-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:98:13-49
+96        <activity
+96-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:99:9-101:52
+97            android:name="com.encardio.android.escl10vt_r5.activity.DownLoadActivity"
+97-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:100:13-45
+98            android:screenOrientation="portrait" />
+98-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:101:13-49
+99        <activity
+99-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:102:9-104:52
+100            android:name="com.encardio.android.escl10vt_r5.activity.ModemSettingsActivity"
+100-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:103:13-50
+101            android:screenOrientation="portrait" />
+101-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:104:13-49
+102        <activity
+102-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:105:9-107:52
+103            android:name="com.encardio.android.escl10vt_r5.activity.ScheduledUploadActivity"
+103-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:106:13-52
+104            android:screenOrientation="portrait" />
+104-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:107:13-49
+105        <activity
+105-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:108:9-110:52
+106            android:name="com.encardio.android.escl10vt_r5.activity.LoggerDateTimeSettingActivity"
+106-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:109:13-58
+107            android:screenOrientation="portrait" />
+107-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:110:13-49
+108        <activity
+108-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:111:9-113:52
+109            android:name="com.encardio.android.escl10vt_r5.activity.LoggerInfoSettingActivity"
+109-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:112:13-54
+110            android:screenOrientation="portrait" />
+110-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:113:13-49
+111        <activity
+111-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:114:9-116:52
+112            android:name="com.encardio.android.escl10vt_r5.activity.SensorSettingActivity"
+112-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:115:13-50
+113            android:screenOrientation="portrait" />
+113-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:116:13-49
+114        <activity
+114-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:118:9-120:52
+115            android:name="com.encardio.android.escl10vt_r5.activity.MonitorTest"
+115-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:119:13-40
+116            android:screenOrientation="portrait" />
+116-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:120:13-49
+117        <activity
+117-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:121:9-123:52
+118            android:name="com.encardio.android.escl10vt_r5.activity.SystemInfoActivity"
+118-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:122:13-47
+119            android:screenOrientation="portrait" />
+119-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:123:13-49
+120        <activity
+120-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:124:9-126:52
+121            android:name="com.encardio.android.escl10vt_r5.activity.PhoneInformation"
+121-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:125:13-45
+122            android:screenOrientation="portrait" />
+122-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:126:13-49
+123        <activity
+123-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:127:9-129:52
+124            android:name="com.encardio.android.escl10vt_r5.activity.BluetoothInformation"
+124-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:128:13-49
+125            android:screenOrientation="portrait" />
+125-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:129:13-49
+126        <activity
+126-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:130:9-132:52
+127            android:name="com.encardio.android.escl10vt_r5.activity.BatteryInformation"
+127-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:131:13-47
+128            android:screenOrientation="portrait" />
+128-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:132:13-49
+129        <activity
+129-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:133:9-135:52
+130            android:name="com.encardio.android.escl10vt_r5.activity.SamplingInformation"
+130-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:134:13-48
+131            android:screenOrientation="portrait" />
+131-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:135:13-49
+132        <activity
+132-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:136:9-138:52
+133            android:name="com.encardio.android.escl10vt_r5.activity.SensorInformation"
+133-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:137:13-46
+134            android:screenOrientation="portrait" />
+134-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:138:13-49
+135        <activity
+135-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:139:9-141:52
+136            android:name="com.encardio.android.escl10vt_r5.activity.LoggerInformation"
+136-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:140:13-46
+137            android:screenOrientation="portrait" />
+137-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:141:13-49
+138        <activity
+138-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:142:9-144:52
+139            android:name="com.encardio.android.escl10vt_r5.activity.HelpActivity"
+139-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:143:13-41
+140            android:screenOrientation="portrait" />
+140-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:144:13-49
+141
+142        <meta-data
+142-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:146:9-148:57
+143            android:name="preloaded_fonts"
+143-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:147:13-43
+144            android:resource="@array/preloaded_fonts" />
+144-->E:\Manish\WorkSpace\ESCL-10VT_R5\ESCL-10VT_R5\app\src\main\AndroidManifest.xml:148:13-54
+145
+146        <provider
+146-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manishk\.gradle\caches\transforms-3\73850b32b2c7ce32b12b91c16b2382c2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+147            android:name="androidx.startup.InitializationProvider"
+147-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manishk\.gradle\caches\transforms-3\73850b32b2c7ce32b12b91c16b2382c2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+148            android:authorities="com.encardio.android.escl10vt_r5.activity.androidx-startup"
+148-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manishk\.gradle\caches\transforms-3\73850b32b2c7ce32b12b91c16b2382c2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+149            android:exported="false" >
+149-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manishk\.gradle\caches\transforms-3\73850b32b2c7ce32b12b91c16b2382c2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+150            <meta-data
+150-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manishk\.gradle\caches\transforms-3\73850b32b2c7ce32b12b91c16b2382c2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+151                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+151-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manishk\.gradle\caches\transforms-3\73850b32b2c7ce32b12b91c16b2382c2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+152                android:value="androidx.startup" />
+152-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manishk\.gradle\caches\transforms-3\73850b32b2c7ce32b12b91c16b2382c2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+153            <meta-data
+153-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\manishk\.gradle\caches\transforms-3\280b8c662ae12c28e2c58a98b88e76a9\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+154                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+154-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\manishk\.gradle\caches\transforms-3\280b8c662ae12c28e2c58a98b88e76a9\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+155                android:value="androidx.startup" />
+155-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\manishk\.gradle\caches\transforms-3\280b8c662ae12c28e2c58a98b88e76a9\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+156        </provider>
+157    </application>
+158
+159</manifest>

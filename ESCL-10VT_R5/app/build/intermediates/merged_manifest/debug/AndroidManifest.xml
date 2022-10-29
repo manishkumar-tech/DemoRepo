@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.encardio.android.escl10vt_r5.activity"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="32" />
+
+    <supports-screens
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    //# manish add
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowClearUserData="false"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:screenOrientation="portrait"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.SplashScreen"
+            android:configChanges="orientation|keyboardHidden"
+            android:exported="true"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="org.achartengine.GraphicalActivity" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.DeviceListActivity"
+            android:screenOrientation="unspecified"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.ParameterActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.BarometerSettingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.GraphView2"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.LineChart"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.AlarmEventActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.HomeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.ScanAndFormatActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.SetupMainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.CSVFileHeaderActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.UploadFilesActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.URL_SettingsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.ViewFileDataTableActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.ContactListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.DownLoadActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.ModemSettingsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.ScheduledUploadActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.LoggerDateTimeSettingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.LoggerInfoSettingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.SensorSettingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.MonitorTest"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.SystemInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.PhoneInformation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.BluetoothInformation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.BatteryInformation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.SamplingInformation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.SensorInformation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.LoggerInformation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.android.escl10vt_r5.activity.HelpActivity"
+            android:screenOrientation="portrait" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.encardio.android.escl10vt_r5.activity.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+    </application>
+
+</manifest>
